@@ -1,0 +1,56 @@
+ /searchProduct info: result :[{"_id":"648224302a3419faa892a384","productname":"Product 1","price":"20","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224302a3419faa892a385","productname":"Product 2","price":"19.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224302a3419faa892a386","productname":"Product 3","price":"5.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224402a3419faa892a38a","productname":"Product 1","price":"10.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224402a3419faa892a38b","productname":"Product 2","price":"19.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224402a3419faa892a38c","productname":"Product 3","price":"5.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224402a3419faa892a38d","productname":"Product 4","price":"15.99","category":"Category 3","userid":"user3","company":"Company C"},{"_id":"648224402a3419faa892a38e","productname":"Product 5","price":"12.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224492a3419faa892a390","productname":"Product 1","price":"10.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224492a3419faa892a391","productname":"Product 2","price":"19.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224492a3419faa892a392","productname":"Product 3","price":"5.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224492a3419faa892a393","productname":"Product 4","price":"15.99","category":"Category 3","userid":"user3","company":"Company C"},{"_id":"648224492a3419faa892a394","productname":"Product 5","price":"12.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224512a3419faa892a396","productname":"Product 1","price":"10.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224512a3419faa892a397","productname":"Product 2","price":"19.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"648224512a3419faa892a398","productname":"Product 3","price":"5.99","category":"Category 1","userid":"user1","company":"Company A"},{"_id":"648224512a3419faa892a399","productname":"Product 4","price":"15.99","category":"Category 3","userid":"user3","company":"Company C"},{"_id":"648224512a3419faa892a39a","productname":"Product 5","price":"12.99","category":"Category 2","userid":"user2","company":"Company B"},{"_id":"64b42dcdb081a13e1fdfa75c","price":"50000","category":"fashion","company":"indo","__v":0},{"_id":"64b42defb081a13e1fdfa75e","price":"50000","category":"fashion","company":"indo","__v":0},{"_id":"64b42e1cb081a13e1fdfa760","price":"50","category":"food","company":"up","__v":0},{"_id":"64b42e37b081a13e1fdfa762","price":"50","category":"food","company":"up","__v":0},{"_id":"64b437762440c009e52d43f9","price":"50","category":"food","company":"up","__v":0}] 23-07-2023 00:13:45
+ /Register info: nfgj.com this Email already exists 23-07-2023 00:17:45
+ /Register info: result:{"email":"nfgj.com","_id":"64bcfa0605ff360a52efca6f","loginTime":"2023-07-23T09:59:34.784Z","__v":0} 23-07-2023 15:29:34
+ /Register info: result:{"email":"nfgj.com","_id":"64bcfb4605ff360a52efca72","loginTime":"2023-07-23T10:04:54.721Z","__v":0} 23-07-2023 15:34:54
+ /Register info: result:{"email":"nfgj.com","_id":"64bcfb50f11ddc36b29d03bc","loginTime":"2023-07-23T10:05:04.609Z","__v":0} 23-07-2023 15:35:04
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd01fbb2bccc88305a1f05","loginTime":"2023-07-23T10:33:31.197Z","__v":0} 23-07-2023 16:03:31
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd02dcb2bccc88305a1f08","loginTime":"2023-07-23T10:37:16.341Z","__v":0} 23-07-2023 16:07:16
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd02e0b2bccc88305a1f0b","loginTime":"2023-07-23T10:37:20.330Z","__v":0} 23-07-2023 16:07:20
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd02e2b2bccc88305a1f0e","loginTime":"2023-07-23T10:37:22.802Z","__v":0} 23-07-2023 16:07:22
+ /forgotPassword info: nfgj.com Incorrect OTP 23-07-2023 16:10:28
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd03a3b96ef380d684fd68","loginTime":"2023-07-23T10:40:35.214Z","__v":0} 23-07-2023 16:10:35
+ /forgotPassword info: result:{"email":"nfgj.com","Otp":"1111","_id":"64bd03ed1bb7f07e5f7d9aa5","loginTime":"2023-07-23T10:41:49.289Z","__v":0} 23-07-2023 16:11:49
+ /ChangePassword info: result:{"email":"nfgj.com","Newpassword":"1111","_id":"64bd0d3107e9f730f0c2a9de","loginTime":"2023-07-23T11:21:21.517Z","__v":0} 23-07-2023 16:51:21
+ /Userlogin info: Request :null 23-07-2023 16:53:16
+ /Register info: Shann1@gmail.com this Email already exists 23-07-2023 16:57:41
+ /ChangePassword info: result:{"email":"nfgj.com","password":"1111","_id":"64bd10a47db79209f0d033c8","loginTime":"2023-07-23T11:36:04.895Z","__v":0} 23-07-2023 17:06:04
+ /Userlogin info: Request :null 23-07-2023 17:06:23
+ /ChangePassword info: result:{"email":"nfgj.com","password":"1111","_id":"64bd453f7db79209f0d033cb","loginTime":"2023-07-23T15:20:31.964Z","__v":0} 23-07-2023 20:50:31
+ /ChangePassword info: Password change failed for email: nfgj.com 23-07-2023 21:02:58
+ /ChangePassword info: Password change failed for email: nfgj.com 23-07-2023 21:03:06
+ /ChangePassword info: Password change failed for email: nfgj.com 23-07-2023 21:07:20
+ /ChangePassword info: Password change failed for email: nfgj.com 23-07-2023 21:07:24
+ /Register info: result:{"name":"shaankhan","email":"Shann12345@gmail.com","password":"2646c5cf0a11d1710d833876acd2321f","_id":"64bd4a44e5d8ab8860777b37","RegisterTime":"2023-07-23T15:41:56.494Z","__v":0} 23-07-2023 21:11:56
+ /Register info: collectData 23-07-2023 21:11:56
+ /Userlogin info: Request :null 23-07-2023 21:12:20
+ /Userlogin info: Request :null 23-07-2023 21:12:47
+ /Userlogin info: Request :null 23-07-2023 21:15:06
+ /Userlogin info: Request :null 23-07-2023 21:18:12
+ /Userlogin info: Request :null 23-07-2023 21:18:38
+ /Userlogin info: Request :null 23-07-2023 21:20:43
+ /Userlogin info: Request :null 23-07-2023 21:22:20
+ /Register info: Shann12345@gmail.com this Email already exists 23-07-2023 21:31:27
+ /Userlogin info: Request :null 23-07-2023 21:31:57
+ /Register info: Shann12345@gmail.com this Email already exists 23-07-2023 21:32:17
+ /Register info: Shann12345@gmail.com this Email already exists 23-07-2023 21:32:20
+ /Register info: result:{"name":"shaankhan","email":"Shann1234@gmail.com","password":"12345","_id":"64bd4f13c56645dabe3d06ab","RegisterTime":"2023-07-23T16:02:27.143Z","__v":0} 23-07-2023 21:32:27
+ /Register info: collectData 23-07-2023 21:32:27
+ /Userlogin info: Request :null 23-07-2023 21:32:40
+ /Register info: Shann1234@gmail.com this Email already exists 23-07-2023 23:12:04
+ /Register info: result:{"name":"shaankhan","email":"Shann123@gmail.com","password":"12345","_id":"64bd6675c56645dabe3d06b1","RegisterTime":"2023-07-23T17:42:13.660Z","__v":0} 23-07-2023 23:12:13
+ /Register info: collectData 23-07-2023 23:12:13
+ /Userlogin info: Request :null 23-07-2023 23:12:41
+ /Userlogin info: Request :null 23-07-2023 23:14:07
+ /Userlogin info: Request :null 23-07-2023 23:18:06
+ /Userlogin info: Request :null 23-07-2023 23:29:25
+ /Userlogin info: Request :{"_id":"64bd6675c56645dabe3d06b1","name":"shaankhan","email":"Shann123@gmail.com","password":"12345","RegisterTime":"2023-07-23T17:42:13.660Z","__v":0} 23-07-2023 23:31:12
+ /Userlogin info: result:{"user":{"_id":"64bd6675c56645dabe3d06b1","name":"shaankhan","email":"Shann123@gmail.com","password":"12345","RegisterTime":"2023-07-23T17:42:13.660Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0YmQ2Njc1YzU2NjQ1ZGFiZTNkMDZiMSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uMTIzQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiMTIzNDUiLCJSZWdpc3RlclRpbWUiOiIyMDIzLTA3LTIzVDE3OjQyOjEzLjY2MFoiLCJfX3YiOjB9LCJpYXQiOjE2OTAxMzUyNzMsImV4cCI6MTY5MDEzODg3M30.6-0ogvZgxA-tt9oM2GMXPV7mMYYGEaVa4vOeT6g_0xU","loginTime":"2023-07-23T18:01:13.035Z"} 23-07-2023 23:31:13
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 23-07-2023 23:31:59
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 23-07-2023 23:32:17
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 23-07-2023 23:34:24
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 23-07-2023 23:35:52
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 23-07-2023 23:40:03
+ /Userlogin info: Request :null 23-07-2023 23:50:26
+ /Userlogin info: Request :{"_id":"64bd6675c56645dabe3d06b1","name":"shaankhan","email":"Shann123@gmail.com","password":"1234","RegisterTime":"2023-07-23T17:42:13.660Z","__v":0} 23-07-2023 23:51:30
+ /Userlogin info: result:{"user":{"_id":"64bd6675c56645dabe3d06b1","name":"shaankhan","email":"Shann123@gmail.com","password":"1234","RegisterTime":"2023-07-23T17:42:13.660Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0YmQ2Njc1YzU2NjQ1ZGFiZTNkMDZiMSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uMTIzQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiMTIzNCIsIlJlZ2lzdGVyVGltZSI6IjIwMjMtMDctMjNUMTc6NDI6MTMuNjYwWiIsIl9fdiI6MH0sImlhdCI6MTY5MDEzNjQ5MCwiZXhwIjoxNjkwMTQwMDkwfQ.qaowHbeWHvhu9yzk8NrvQEAGm83svkMQHi6UPbbRjGM","loginTime":"2023-07-23T18:21:30.018Z"} 23-07-2023 23:51:30
+ /Userlogin info: Request :null 23-07-2023 23:51:37

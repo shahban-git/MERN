@@ -1,0 +1,7 @@
+ /Register info: Shann12@gmail.com this Email already exists 15-08-2023 23:34:00
+ /Register info: Shann1@gmail.com this Email already exists 15-08-2023 23:34:08
+ /Register info: result:{"name":"shaankhan","email":"Shann@gmail.com","password":"12345","_id":"64dbbe2064d9ae39e60e6101","RegisterTime":"2023-08-15T18:04:16.945Z","__v":0} 15-08-2023 23:34:16
+ /Register info: collectData 15-08-2023 23:34:16
+ /Userlogin info: result:{"user":{"_id":"64dbbe2064d9ae39e60e6101","name":"shaankhan","email":"Shann@gmail.com","password":"12345","RegisterTime":"2023-08-15T18:04:16.945Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0ZGJiZTIwNjRkOWFlMzllNjBlNjEwMSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiMTIzNDUiLCJSZWdpc3RlclRpbWUiOiIyMDIzLTA4LTE1VDE4OjA0OjE2Ljk0NVoiLCJfX3YiOjB9LCJpYXQiOjE2OTIxMjI5OTAsImV4cCI6MTY5MjEyNjU5MH0.DziQslSoiLPJj1TQ1a7QprrTPU0RfbbqjbO5S-Bdr0Q","loginTime":"2023-08-15T18:09:50.733Z"} 15-08-2023 23:39:50
+ /ChangePassword info: Password changed successfully for email: Shann@gmail.com 15-08-2023 23:40:33
+ /forgotPassword info: result:{"email":"Shann@gmail.com","Otp":"1111","_id":"64dbc06df46d733b86a68b78","loginTime":"2023-08-15T18:14:05.017Z","__v":0} 15-08-2023 23:44:05

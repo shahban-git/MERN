@@ -1,0 +1,122 @@
+.nav-ul li{
+  display: inline;
+  padding: 10px;
+}
+
+nav{
+  height: 100px;
+}
+
+.inputbox{
+  display: block;
+  margin: 10px;
+  width: 300px;
+  
+}
+
+.signup{
+  margin-left: 0%;
+  text-align: center;
+  width: "300px";
+}
+
+.footer{
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  height:"2px";
+  margin: "-2px";
+  background-color: cyan;
+}
+
+.nav-ul li a{
+  margin-top: 0px;
+  text-align: center;
+  color: antiquewhite;
+  padding: 10px;
+  text-decoration: none;
+ 
+  
+}
+
+.nav-ul{
+  background-color: #0e3846;
+  margin: 0px;
+  padding: 0px;
+  height: fit-content;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px; /* Adjust the value as needed */
+}
+
+.logo{
+
+    float: left;
+    width: 100px;
+    margin-left: 0px;
+
+}
+
+.nav-right{
+  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.product-List{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-List ul li{
+display: inline-block;
+border: 1px solid skyblue;
+padding: 5px;
+width: 150px;
+}
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #0edfe7;
+}

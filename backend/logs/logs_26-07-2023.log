@@ -1,0 +1,16 @@
+ /ChangePassword info: Password change failed for email: Shann123@gmail.com 26-07-2023 23:02:46
+ /Register info: result:{"name":"shaankhan","email":"Shann12@gmail.com","password":"12345","_id":"64c15940b29e70cc882276ce","RegisterTime":"2023-07-26T17:34:56.541Z","__v":0} 26-07-2023 23:04:56
+ /Register info: collectData 26-07-2023 23:04:56
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:05:59
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:12:29
+ /Userlogin info: result:{"user":{"_id":"64c15940b29e70cc882276ce","name":"shaankhan","email":"Shann12@gmail.com","password":"654321","RegisterTime":"2023-07-26T17:34:56.541Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0YzE1OTQwYjI5ZTcwY2M4ODIyNzZjZSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uMTJAZ21haWwuY29tIiwicGFzc3dvcmQiOiI2NTQzMjEiLCJSZWdpc3RlclRpbWUiOiIyMDIzLTA3LTI2VDE3OjM0OjU2LjU0MVoiLCJfX3YiOjB9LCJpYXQiOjE2OTAzOTM1MTAsImV4cCI6MTY5MDM5NzExMH0.s_N1ubNVlpJN9o2BYBx7pRnjn79jtIUDgtIM93X7LCw","loginTime":"2023-07-26T17:45:10.515Z"} 26-07-2023 23:15:10
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:17:33
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:27:45
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:27:54
+ /ChangePassword info: Password change failed for email: Shann12@gmail.com 26-07-2023 23:28:01
+ /ChangePassword info: Password changed successfully for email: Shann12@gmail.com 26-07-2023 23:30:59
+ /ChangePassword info: Password changed successfully for email: Shann12@gmail.com 26-07-2023 23:31:56
+ /Userlogin info: result:{"user":{"_id":"64c15940b29e70cc882276ce","name":"shaankhan","email":"Shann12@gmail.com","password":"$2b$10$e6KevzJeuN.XNWm.qjDKK.oNzn5eODTW1hOb43wHwQx51Akozvt.u","RegisterTime":"2023-07-26T17:34:56.541Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0YzE1OTQwYjI5ZTcwY2M4ODIyNzZjZSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uMTJAZ21haWwuY29tIiwicGFzc3dvcmQiOiIkMmIkMTAkZTZLZXZ6SmV1Ti5YTldtLnFqREtLLm9Oem41ZU9EVFcxaE9iNDN3SHdReDUxQWtvenZ0LnUiLCJSZWdpc3RlclRpbWUiOiIyMDIzLTA3LTI2VDE3OjM0OjU2LjU0MVoiLCJfX3YiOjB9LCJpYXQiOjE2OTAzOTQ2NTcsImV4cCI6MTY5MDM5ODI1N30.af3TfMWlaKWTB8ZmkU6uhBcNONdC5_Wcz0XPRHRfqH4","loginTime":"2023-07-26T18:04:17.816Z"} 26-07-2023 23:34:17
+ /ChangePassword info: Password changed successfully for email: Shann12@gmail.com 26-07-2023 23:35:25
+ /Userlogin info: result:{"user":{"_id":"64c15940b29e70cc882276ce","name":"shaankhan","email":"Shann12@gmail.com","password":"65432100000","RegisterTime":"2023-07-26T17:34:56.541Z","__v":0},"auth":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0YzE1OTQwYjI5ZTcwY2M4ODIyNzZjZSIsIm5hbWUiOiJzaGFhbmtoYW4iLCJlbWFpbCI6IlNoYW5uMTJAZ21haWwuY29tIiwicGFzc3dvcmQiOiI2NTQzMjEwMDAwMCIsIlJlZ2lzdGVyVGltZSI6IjIwMjMtMDctMjZUMTc6MzQ6NTYuNTQxWiIsIl9fdiI6MH0sImlhdCI6MTY5MDM5NDc3MSwiZXhwIjoxNjkwMzk4MzcxfQ.mqd8lajTcZVo9RiIE8wK-svkobSEhMw6hbe3jQr6d4w","loginTime":"2023-07-26T18:06:11.542Z"} 26-07-2023 23:36:11
+ /ChangePassword info: Password changed successfully for email: Shann12@gmail.com 26-07-2023 23:46:34

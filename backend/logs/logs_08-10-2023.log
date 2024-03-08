@@ -1,0 +1,7 @@
+ /Register info: result:{"name":"shaankhan","email":"Shannkhanbhai@gmail.com","password":"12345","_id":"6522a9d07f548ce898180992","RegisterTime":"2023-10-08T13:08:32.865Z","__v":0} 08-10-2023 18:38:33
+ /Register info: collectData 08-10-2023 18:38:33
+ /Register error: Error during user registration: Operation `users.findOne()` buffering timed out after 10000ms 08-10-2023 19:45:51
+ /Register error: Error during user registration: Operation `users.findOne()` buffering timed out after 10000ms 08-10-2023 19:53:33
+ /Register error: Error during user registration: Operation `users.findOne()` buffering timed out after 10000ms 08-10-2023 19:54:55
+ /Register error: Error during user registration: Operation `users.findOne()` buffering timed out after 10000ms 08-10-2023 20:06:18
+ /Register error: Error during user registration: Operation `users.findOne()` buffering timed out after 10000ms 08-10-2023 20:23:10
